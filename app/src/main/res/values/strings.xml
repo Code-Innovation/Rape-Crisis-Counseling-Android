@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">RCC Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="section_title_advocate_training">Advocate Training</string>
+    <string name="section_text_advocate_training">This is a training primer for volunteer advocates who want to support survivors of sexual assault and intimate partner violence at health centers in their communities</string>
+
+    <string name="subsection_next">Next</string>
+
+    <string name="section_important">Important: Read this First</string>
+    <string name="section_resource_for_survivors">In-Hand Resource for Survivors</string>
+    <string name="section_resource_for_advocates">In-Hand Resource for Advocates</string>
+    <string name="section_advocate_training">Volunteer Advocate Training</string>
+    <string name="menu_resources">Resources</string>
+    <string name="menu_about">About</string>
+    <string name="menu_settings">Settings</string>
+    <string name="subsection_important_text">
+        This training is designed to teach volunteer advocates how to provide competent, effective crisis intervention services to victims and survivors of sexual assault.
+This training is meant to supplement, and not replace, formal training for rape crisis counseling offered at rape crisis centers. Completion does not certify trainees as advocates or counselors.
+\n\nHowever, we acknowledge that because <u>these services may be limited in your community</u>, if you seek to serve as an advocate but no training is available, it may be helpful to consult this digital training as a guide.
+\n\nThis training presents basic supportive listening skills that can be used without advanced training. This training in no way teaches the skills necessary to provide counseling therapy.
+\n\nBy continuing, you acknowledge that you understand the limits of this digital training.
+    </string>
+    <string name="resources_text"><![CDATA[
+<p>If you, your group or organization would like to receive training to support survivors of sexual assault and intimate partner violence, please contact our partners at the Washington DC Rape Crisis Center (<a href=\'mailto:dcrcc@dcrcc.org\'>dcrcc@dcrcc.org</a>).</p>
+<p>If you would like to send us anonymous feedback about this app you can do so <a href=\'https://docs.google.com/forms/d/e/1FAIpQLSdZBWnjulmziUhfM0Tq8ahVLPKCkuTPh_ANhuzzmDdKT4bdyw/viewform\'>here</a>.</p>
+<p><em>For more information, please visit us at <a href=\'http://rapecrisiscounseling.org\'>rapecrisiscounseling.org</a>.</em></p>
+    ]]></string>
+    <string name="resources_title">Resources</string>
+    <string name="about_text"><![CDATA[
+<p>Version: VERSION_NAME</p>
+<p>This is a free and open source resource created by Code Innovation (<a href=\'http://www.codeinnovation.com\'>www.codeinnovation.com</a>) in partnership with the Washington DC Rape Crisis Center (<a href=\'http://dcrcc.org\'>dcrcc.org</a>).</p>
+<p>We want to thank our partners, including:</p>
+<p>Rita Langley<br />Free Women Writers (<a href=\'http://www.freewomenwriters.org/\'>www.freewomenwriters.org</a>)<br />Megan Nobert, Founder and Former Director of Report the Abuse<br />Tanya Roussopoulos Williams, Women\'s Human Rights Consultant, London</p>
+<p>Thanks also to the generous support of our crowdfunders and donors. This resource would not be possible without you!</p>
+<p><strong>Ambassadors</strong><br />Imago Dei Foundation</p>
+<p><strong>Advocates</strong> <br />Namaste Foundation <br />Yen Yang Lim</p>
+<p><strong>Supporters</strong><br />Sam &amp; Sybil Williams <br />Caroline L. Martin <br />George Losleben <br />Connie Johnson</p>
+<p><strong>Contributors</strong><br />Ali Neely<br />Regina Njima <br />Nell Watson <br />Emilia Lahti <br />Tania Campbell <br />Peter Lacey &amp; Meg Hess<br />Genevieve Frances <br />Victor Udoewa <br />Elizabeth Klinger <br />Janaina Pinto <br />Jennifer Townsend <br />Kim Marie Nicols &amp; Clifford Hayden<br />Landis Wyatt <br />Brenda Wrobel <br />Chid Liberty <br />Nellie Johnson</p>
+<p><em>For more information, please visit us at <a href=\'http://rapecrisiscounseling.org\'>rapecrisiscounseling.org</a>.</em></p>
+    ]]></string>
+    <string name="terms_text"><![CDATA[
+<p>Welcome to our application. If you continue to browse and use this application, you agree to comply with and be bound by the following terms and conditions of use. These terms and conditions govern your relationship with you in relation to this application. If you disagree with any part of these terms and conditions, please do not use our application.</p>
+<p>This statement of terms and conditions of use also contains a list of disclaimers about the content of this application and how it is to be used. Please read the statement carefully, as you are agreeing that we have no liability for any harm that anyone may suffer as a direct or indirect use of the information provided in this application.<br />The terms &lsquo;we&rsquo; or &lsquo;us&rsquo; refer to the owner of the application, which is Code Innovation. The term &lsquo;you&rsquo; refers to the user or viewer of our application.</p>
+<p>The use of this application is subject to the following:</p>
+<p>1. The content of this application is for your general information and use only. It is subject to change without notice, and we will not notify you of any such changes.</p>
+<p>2. We may modify, suspend, or terminate the operation of this application at any time, and we reserve the right to suspend or terminate the use of or access to this application by any particular use at any time or for any reason.</p>
+<p>3. Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this application for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors, and you agree that we may not be held liable for any such inaccuracies or errors to the fullest extent permitted by law.</p>
+<p>4. The information provided in this application is for your general use. None of the material in this application is intended to serve as medical or legal advice from a person licensed to practice medicine or law, or to serve as a training manual for anyone interested in assisting or advocating for persons who claim they are a survivor of any emotional or physical abuse or harm. You are urged to contact a medical or legal professional of your choice to obtain information specific to your situation and to the laws of your country or area.</p>
+<p>5. This application is in no way intended to serve as a formal or informal substitute for training as an advocate for persons who have suffered some form of emotional or physical abuse or harm at the hands of another. The owners of this application have made no attempt to determine the laws or procedures that may be applicable in any specific country with respect to the treatment of persons who have suffered abuse or harm at the hands of someone else. Persons who are advocates for these persons are urged to obtain formal training from persons or entities knowledgeable of the laws and customs in their area.</p>
+<p>6. Your use of any information or materials on this application is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any information available through this application meet your specific requirements. In particular, the information and materials in this application are not intended to be used as a review or training manual for any licensing required or allowed for any purpose in any jurisdiction. If licensing or training is required for any activity you conduct with respect to any matter discussed on this application, you agree to obtain that licensing or training.</p>
+<p>7. If any third party claims that you caused them injury as a result of your use or reliance on information in this application (as for example, some injury caused during the types of medical examination discussed herein), you agree to hold us harmless from any such claim, and to indemnify us to the fullest extent allowed by the laws of the jurisdiction where the claim is brought.</p>
+<p>8. This application contains material which is owned by us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. All material owned by us is considered a Free Cultural Work, as currently defined here: https://freedomdefined.org/Definition. We also hereby waive all rights under any copyright or other intellectual property law of any jurisdiction, so that you may freely study, copy, use, redistribute, change, or improve the materials provided in this application.</p>
+<p>9. From time to time, this application may also include links to other applications. These links are provided for your convenience to provide further information. They do not signify that we endorse the application(s). We have no responsibility for the content of the linked application(s).</p>
+    ]]></string>
+    <string name="privacy_text"><![CDATA[
+<p>This privacy statement discloses the privacy practices of Code Innovation LLC and this application as of 1 March 2018.</p>
+<p><u>Information Collected By Us</u></p>
+<p>The types of information that we collect consists exclusively of non-personally identifiable information typcially gathered by applications. It is all aggregate information or other information that does not reveal your identity.</p>
+<p><u>Information Collected and Used By Us</u></p>
+<p><u>Log Files</u>: Any time you visit our application, our servers may gather certain information from your browser. This may include your IP address, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We gather this information to administer the site, track visitor movement in the aggregate, gather demographic information, and monitor which parts of our application that visitors are accessing. We will not share this information with anyone.</p>
+<p><u>Information gathered by Publishing Platforms</u>: We use Google Play and Apple to publish our application. They may automatically collect information about the users of our application. We have no control over what Google Play or Apple collect, or what they may do with that information. You can find the most recent copy of the privacy policies for Google Play and Apple at <br /><a href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a> and <a href="https://www.apple.com/legal/privacy/en-ww/">https://www.apple.com/legal/privacy/en-ww/</a></p>
+<p><u>Mobile Analytics</u>: We use mobile analytics software to let us better understand the functionality of our application. This software may record information such as how often you use the application, and where the application was downloaded from.</p>
+<p><u>Mobile Device</u>: If you use a mobile device to access our application, we may collect device information (such as mobile device ID, model and manufacturer), operating system and version information, and IP address.</p>
+<p><u>Mobile Device Additional Terms</u></p>
+<p><u>Mobile Device</u>: If you use a mobile device to access our application, we may collect device information (such as your mobile device ID, model and manufacturer), operating system and version information, and IP address.</p>
+<p><u>Geo-Locational Information</u>: We do not access or track any location-based information from your mobile device.</p>
+<p><u>Push Notifications</u>: We will not send you any push notifications.</p>
+<p><u>Disclosure of Your Information</u></p>
+<p><u>Disclosure By Law</u>: You acknowledge and agree that we may disclose information we gather from people who use this application if required to do so by law, or if we, in our sole discretion, believe that disclosure is reasonable to (1) comply with the law, requests or orders from law enforcement, or any legal process (whether or not such disclosure is required by applicable law); (2) protect or defend us or a third party&rsquo;s, rights or property; or (3) protect someone&rsquo;s health or safety, such as when there is a threat of harm or violence to any person (including you).</p>
+<p><u>Information Transferred As a Result of Transfer of Application</u>: It is conceivable that we will transfer the operation of the application to a third party. The information we gather from users of this application may be one of the transferred assets. If this occurs, this Privacy Policy may be notified to reflect any material changes to the way that information gathered is collected or used.</p>
+<p><u>Security</u></p>
+<p>We have extensive security measures in place to protect the loss, misuse and alteration of the information stored in our database. We will exercise reasonable care in providing secure transmission of information between your computer and our servers, but given that no information transmitted over the Internet can be guaranteed 100% secure, we cannot ensure or warrant the security of any information transmitted to us over the Internet and hence accept no liability for any unintentional disclosure.</p>
+<p><u>Data Retention</u></p>
+<p>We may retain information gathered from users of this application in order to comply with applicable laws, keep accurate records, resolve disputes, prevent fraud, or for any other legally permissible purpose.</p>
+<p><u>Contacting the Application</u></p>
+<p>If you have any questions about this privacy statement or this application, please contact <a href="mailto:support@rapecrisiscounseling.org">support@rapecrisiscounseling.org</a>.</p>
+<p><u>Acceptance of Privacy Statement</u></p>
+<p>Your use of our application, including any dispute concerning privacy, is subject to this privacy statement and applicable Terms of Use. By using our application, you accept the practices described in this Privacy Statement and related Terms of Use.</p>
+<p>We reserve the right to modify this privacy statement at any time, without providing a notice to you. We will post any changes to this privacy policy so that you know what information we collect, how we use it, and under what circumstances, if any, we disclose it. We encourage you to review this policy frequently.</p>
+    ]]></string>
+    <string name="about_title">About</string>
+    <string name="terms_title">Terms of Use</string>
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="main_menu_text">This app provides support for survivors and their advocates to navigate emergency health care services.</string>
+    <string name="menu_privacy_policy">Privacy Policy</string>
+    <string name="menu_disclaimer">Disclaimer</string>
+    <string name="menu_terms_of_use">Terms of Use</string>
+</resources>

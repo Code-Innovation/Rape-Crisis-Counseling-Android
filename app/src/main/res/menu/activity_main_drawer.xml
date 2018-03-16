@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/menu_group_sections" android:checkableBehavior="none" >
+        <item
+            android:id="@+id/menu_resource_for_survivors"
+            android:title="@string/section_resource_for_survivors" />
+        <item
+            android:id="@+id/menu_resource_for_advocates"
+            android:title="@string/section_resource_for_advocates" />
+        <item
+            android:id="@+id/menu_advocate_training"
+            android:title="@string/section_advocate_training" />
+    </group>
+
+    <group android:id="@+id/menu_group_resources" android:checkableBehavior="none">
+        <item
+            android:id="@+id/menu_resources"
+            android:title="@string/menu_resources" />
+        <item
+            android:id="@+id/menu_about"
+            android:title="@string/menu_about" />
+        <item
+            android:id="@+id/menu_settings"
+            android:enabled="false"
+            android:title="@string/menu_settings"
+            android:visible="false" />
+    </group>
+
+    <group android:id="@+id/menu_group_privacy" android:checkableBehavior="none" >
+        <item
+            android:id="@+id/menu_privacy_policy"
+            android:title="@string/menu_privacy_policy" />
+
+        <item
+            android:id="@+id/menu_terms_of_use"
+            android:title="@string/menu_terms_of_use" />
+    </group>
+
+</menu>

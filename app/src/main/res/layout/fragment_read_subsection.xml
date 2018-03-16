@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbarSubsection"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorAqua"
+        app:contentInsetStart="@dimen/default_margin"
+        app:popupTheme="@style/AppTheme.PopupOverlay">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageView
+                android:id="@+id/ivSubsectionMenu"
+                android:layout_width="@dimen/size_icon_actionbar"
+                android:layout_height="@dimen/size_icon_actionbar"
+                android:layout_centerVertical="true"
+                android:src="@drawable/image_leftmenu_icon" />
+
+            <TextView
+                android:id="@+id/tvSubsectionTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/ivSubsectionMenu"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:textColor="@color/colorWhite"
+                android:textSize="@dimen/text_size_description"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/dlSubsection"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fitsSystemWindows="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbarSubsection"
+        tools:context="nz.rita.rcc.fragments.ReadSubsectionFragment"
+        tools:openDrawer="start">
+        
+        <include
+            layout="@layout/content_subsection"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <android.support.design.widget.NavigationView
+            android:id="@+id/nav_view"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="@color/menu_level_1">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rvContentSideMenu"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layoutManager="android.support.v7.widget.LinearLayoutManager"
+                tools:listitem="@layout/item_list" />
+
+        </android.support.design.widget.NavigationView>
+
+    </android.support.v4.widget.DrawerLayout>
+
+</android.support.constraint.ConstraintLayout>
